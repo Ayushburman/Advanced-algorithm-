@@ -1,7 +1,7 @@
 
 5. [Simplification rules]
 6. [Analysing loops]
-7. [Analysing recursion](#s7)
+7. [Analysing recursion]
 8. [Amortized analysis](#s8)
 9. [Space complexity](#s9)
 10. [Reference tables](#s10)
