@@ -1,6 +1,6 @@
 # Big O Notation
 
-Sequence-wise notes: read 1 → 13 in order, then repeat the practice loop at the e
+Sequence-wise notes: read 1 → 13 in order, then repeat the practice loop at the 
 
 **Study sequence
 
