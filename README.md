@@ -1,5 +1,5 @@
 
-5. [Simplification rules](#s5)
+5. [Simplification rules]
 6. [Analysing loops]
 7. [Analysing recursion](#s7)
 8. [Amortized analysis](#s8)
