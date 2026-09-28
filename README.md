@@ -1,6 +1,4 @@
 
-10. 
-12. [Input size → 
 13. [Common 
 15. [Practic
 ## 
