@@ -1,5 +1,4 @@
 
-3. [O, Ω, Θ and 
 4. [Growth-rate hierarch
 5. [Simplification rules](#s5)
 6. [Analysing loops](#s6)
