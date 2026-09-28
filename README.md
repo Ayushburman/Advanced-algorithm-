@@ -1,5 +1,5 @@
 # Big O 
-Sequence-wise notes: read 1 → 13 in order, then repeat the practice loop 
+Sequence-wise notes: read 1 → 13 in order, then repeat the practice 
 1. [What Big O measures](#s1)
 2. [Formal definitio
 3. [O, Ω, Θ and cases]
