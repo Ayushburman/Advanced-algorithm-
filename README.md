@@ -1,5 +1,4 @@
 
-4. [Growth
 5. [Simplification rules](#s5)
 6. [Analysing loops](#s6)
 7. [Analysing recursion](#s7)
