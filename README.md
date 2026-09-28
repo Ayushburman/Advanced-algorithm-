@@ -1,5 +1,5 @@
 
-Big O describes how the work (time) or memory (space) of an algorithm *grows* as the input size `n` grows. It counts basic operations, not seconds, so it is independent of hardware and 
+Big O describes how the work (time) or memory (space) of an algorithm *grows* as the input size `n` grows. It counts basic operations, not seconds, so it is independent of h
 - It is an **upper bound on growth rate** for large `n`.
 - It ignores constant factors and lower-order terms: `3n² + 5n + 2` grows like `n²`.
 - Always state what `n` is (array length, number of nodes, digits, ...).
