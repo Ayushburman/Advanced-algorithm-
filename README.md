@@ -1,6 +1,6 @@
 
 5. [Simplification rules](#s5)
-6. [Analysing loops](#s6)
+6. [Analysing loops]
 7. [Analysing recursion](#s7)
 8. [Amortized analysis](#s8)
 9. [Space complexity](#s9)
