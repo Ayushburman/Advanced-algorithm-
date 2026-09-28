@@ -1,7 +1,7 @@
 
 10. [Space complexity]
 11. [Reference tables]
-12. [Input size → complexity](#s11)
+12. [Input size → complexity]
 13. [Common pitfalls
 14. [Practice with answers](#s13)
 
