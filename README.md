@@ -2,7 +2,7 @@
 
 Sequence-wise notes: read 1 → 13 in order, then repeat the practice loop at the 
 
-**Study sequence
+**Study 
 
 1. [What Big O measures](#s1)
 2. [Formal definition](#s2)
