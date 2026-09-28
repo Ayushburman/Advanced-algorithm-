@@ -2,7 +2,7 @@
 
 Sequence-wise notes: read 1 → 13 in order, then repeat the practice loop at 
 1. [What Big O measures](#s1)
-2. [Formal definition](#s2)
+2. [Formal definition]
 3. [O, Ω, Θ and cases](#s3)
 4. [Growth-rate hierarchy
 5. [Simplification rules](#s5)
