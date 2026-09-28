@@ -1,5 +1,5 @@
 
-6. [Analysing loops]
+6. [Analysing
 7. [Analysing recursion]
 8. [Amortized analysis](#s8)
 9. [Space complexity](#s9)
