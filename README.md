@@ -1,5 +1,5 @@
 
-Sequence-wise 
+Sequenc
 1. 
 3. [O, Ω, Θ and 
 4. [Growth-rate hierarch
