@@ -6,7 +6,7 @@
 9. [Space complexity](#s9)
 10. [Reference tables](#s10)
 11. [Input size → complexity](#s11)
-12. [Common pitfalls](#s12)
+12. [Common pitfalls
 13. [Practice with answers](#s13)
 
 ## **1**What Big O measures
