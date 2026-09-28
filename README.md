@@ -1,5 +1,5 @@
 
-9. [Amortized analysis
+9. [Amortized a
 10. [Space complexity]
 11. [Reference tables](#s10)
 12. [Input size → complexity](#s11)
