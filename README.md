@@ -1,6 +1,6 @@
 
 9. [Amortized analysis
-10. [Space complexity](#s9)
+10. [Space complexity]
 11. [Reference tables](#s10)
 12. [Input size → complexity](#s11)
 13. [Common pitfalls
