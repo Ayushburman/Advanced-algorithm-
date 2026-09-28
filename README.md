@@ -1,7 +1,7 @@
 # Big O 
 Sequence-wise notes: read 1 → 13 in order, then repeat the 
 1. [What Big O measures]
-2. [Formal definitio
+2. [Formal 
 3. [O, Ω, Θ and cases]
 4. [Growth-rate hierarch
 5. [Simplification rules](#s5)
