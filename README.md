@@ -3,7 +3,7 @@
 12. [Input size → 
 13. [Common 
 15. [Practice with
-## **1**What Big O 
+## **1**What 
 
 Big O describes how the work (time) or memory (space) of an algorithm *grows* as the input size `n` grows. It counts basic operations, not seconds, so it is independent of hardware and language.
 
