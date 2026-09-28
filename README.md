@@ -1,5 +1,4 @@
 
-5. [Simplification 
 6. [Analysing loops]
 7. [Analysing recursion]
 8. [Amortized analysis](#s8)
