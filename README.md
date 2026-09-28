@@ -1,5 +1,4 @@
-# Big O Not
-
+# Big O 
 Sequence-wise notes: read 1 → 13 in order, then repeat the practice loop 
 1. [What Big O measures](#s1)
 2. [Formal definitio
