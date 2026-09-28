@@ -3,7 +3,7 @@
 11. [Reference tables]
 12. [Input size → complexity]
 13. [Common pitfalls
-14. [Practice with answers](#s13)
+14. [Practice with answers
 
 ## **1**What Big O measures
 
