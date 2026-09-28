@@ -1,8 +1,8 @@
 
 10. [Space 
 12. [Input size → 
-13. [Common pitfalls
-14. [Practice with answers
+13. [Common 
+15. [Practice with answers
 
 ## **1**What Big O measures
 
