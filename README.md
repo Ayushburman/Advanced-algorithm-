@@ -1,5 +1,5 @@
 
-4. [Growth-rate hierarch
+4. [Growth-rat
 5. [Simplification rules](#s5)
 6. [Analysing loops](#s6)
 7. [Analysing recursion](#s7)
