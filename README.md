@@ -1,11 +1,10 @@
 
-7. [Analysing 
-8. [Amortized analysis](#s8)
-9. [Space complexity](#s9)
-10. [Reference tables](#s10)
-11. [Input size → complexity](#s11)
-12. [Common pitfalls
-13. [Practice with answers](#s13)
+9. [Amortized analysis](#s8)
+10. [Space complexity](#s9)
+11. [Reference tables](#s10)
+12. [Input size → complexity](#s11)
+13. [Common pitfalls
+14. [Practice with answers](#s13)
 
 ## **1**What Big O measures
 
