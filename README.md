@@ -1,4 +1,4 @@
-# Big O Notat
+# Big O Not
 
 Sequence-wise notes: read 1 → 13 in order, then repeat the practice loop 
 1. [What Big O measures](#s1)
