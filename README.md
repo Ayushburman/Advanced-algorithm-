@@ -1,5 +1,5 @@
 # Big
-Sequence-wise notes: read 1 → 
+Sequence-wise notes: read 
 1. [What Big O
 3. [O, Ω, Θ and 
 4. [Growth-rate hierarch
