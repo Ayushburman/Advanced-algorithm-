@@ -1,6 +1,6 @@
 
 6. [Analysing
-7. [Analysing recursion]
+7. [Analysing 
 8. [Amortized analysis](#s8)
 9. [Space complexity](#s9)
 10. [Reference tables](#s10)
