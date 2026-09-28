@@ -1,5 +1,4 @@
 
-## 
 Big O describes how the work (time) or memory (space) of an algorithm *grows* as the input size `n` grows. It counts basic operations, not seconds, so it is independent of hardware and language.
 
 - It is an **upper bound on growth rate** for large `n`.
