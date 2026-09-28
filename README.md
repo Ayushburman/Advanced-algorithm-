@@ -1,5 +1,4 @@
 
-6. [Analysing
 7. [Analysing 
 8. [Amortized analysis](#s8)
 9. [Space complexity](#s9)
