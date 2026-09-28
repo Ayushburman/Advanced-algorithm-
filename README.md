@@ -1,5 +1,5 @@
 
-10. [Space complexity]
+10. [Space 
 11. [Reference tables]
 12. [Input size → complexity]
 13. [Common pitfalls
