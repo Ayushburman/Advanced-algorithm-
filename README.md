@@ -1,4 +1,4 @@
-# Big
+
 Sequence-wise 
 1. [What Big O
 3. [O, Ω, Θ and 
