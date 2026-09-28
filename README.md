@@ -1,5 +1,5 @@
 # Big O 
-Sequence-wise notes: read 1 → 13 in 
+Sequence-wise notes: read 1 → 13 
 1. [What Big O measures]
 3. [O, Ω, Θ and 
 4. [Growth-rate hierarch
