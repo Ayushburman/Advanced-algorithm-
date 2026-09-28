@@ -1,6 +1,6 @@
 
 10. [Space 
-12. [Input size → complexity]
+12. [Input size → 
 13. [Common pitfalls
 14. [Practice with answers
 
