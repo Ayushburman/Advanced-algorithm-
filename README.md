@@ -1,6 +1,6 @@
 
 Sequence-wise 
-1. [What Big O
+1. [What 
 3. [O, Ω, Θ and 
 4. [Growth-rate hierarch
 5. [Simplification rules](#s5)
